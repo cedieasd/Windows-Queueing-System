@@ -1,0 +1,13 @@
+K:\PROGRAMMING\C# Projects\RealFinalTP\bin\Debug\RealFinalTP.exe.config
+K:\PROGRAMMING\C# Projects\RealFinalTP\bin\Debug\RealFinalTP.exe
+K:\PROGRAMMING\C# Projects\RealFinalTP\bin\Debug\RealFinalTP.pdb
+K:\PROGRAMMING\C# Projects\RealFinalTP\obj\Debug\RealFinalTP.QueuingForm.resources
+K:\PROGRAMMING\C# Projects\RealFinalTP\obj\Debug\RealFinalTP.CashierWindowQueue.resources
+K:\PROGRAMMING\C# Projects\RealFinalTP\obj\Debug\RealFinalTP.Form3.resources
+K:\PROGRAMMING\C# Projects\RealFinalTP\obj\Debug\RealFinalTP.Properties.Resources.resources
+K:\PROGRAMMING\C# Projects\RealFinalTP\obj\Debug\RealFinalTP.csproj.GenerateResource.cache
+K:\PROGRAMMING\C# Projects\RealFinalTP\obj\Debug\RealFinalTP.csproj.CoreCompileInputs.cache
+K:\PROGRAMMING\C# Projects\RealFinalTP\obj\Debug\RealFinalTP.exe
+K:\PROGRAMMING\C# Projects\RealFinalTP\obj\Debug\RealFinalTP.pdb
+K:\PROGRAMMING\C# Projects\RealFinalTP\obj\Debug\RealFinalTP.csproj.AssemblyReference.cache
+K:\PROGRAMMING\C# Projects\RealFinalTP\obj\Debug\RealFinalTP.csproj.SuggestedBindingRedirects.cache
